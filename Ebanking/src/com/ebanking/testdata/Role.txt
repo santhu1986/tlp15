@@ -1,0 +1,5 @@
+RoleName###RoleDes###RoleType###Results
+cashieraxis07###cashier###E
+cashieraxis08###cashier###E
+cashieraxis04###cashier###E
+cashieraxis05###cashier###E

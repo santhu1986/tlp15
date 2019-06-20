@@ -1,0 +1,5 @@
+RoleName###RoleDes###RoleType###Results
+cashieraxis07%%%cashier$$$$E@@@Role Already existed
+cashieraxis08%%%cashier$$$$E@@@Role Already existed
+cashieraxis04%%%cashier$$$$E@@@Role Already existed
+cashieraxis05%%%cashier$$$$E@@@Role Already existed
